@@ -33,11 +33,11 @@
 
 <p align="center">
     <a href="https://github-readme-stats.vercel.app/api?username=ashrefmehri">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="AmmarAgeeza's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ashrefmehri&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="ashrefmehri" src="https://github-readme-streak-stats.herokuapp.com/?user=ashrefmehri&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
-<a href="https://github.com/AmmarAgeeza/github-readme-stats"><img alt="AmmarAgeeza's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AmmarAgeeza&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-<a href="https://github.com/AmmarAgeeza/github-readme-stats"><img alt="AmmarAgeeza's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmmarAgeeza&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<a href="https://github.com/ashrefmehri/github-readme-stats"><img alt="ashrefmehri" src="https://github-readme-stats.vercel.app/api?username=ashrefmehri&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<a href="https://github.com/ashrefmehri/github-readme-stats"><img alt="ashrefmehri" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashrefmehri&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
 <br>
 <div align="center">
@@ -48,21 +48,12 @@
 ## 🤝 Connect With Me:
 
 <div align="center">
-    <a href="https://www.linkedin.com/in/ammar-ageeza-9031891b8/" target="_blank">
+    <a href="https://www.linkedin.com/in/achref-mehri-848720307/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
     </a>
-  <a href="mailto:ammarfathy516@gmail.com">
+  <a href="mailto:ashrefmehri24@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-        <a href="https://mostaql.com/u/ammarageeza/portfolio">
-    <img src="https://img.shields.io/badge/Portfolio-0077B5?style=for-the-badge&logoColor=white" />
-  </a>
-    <a href="https://youtube.com/@ammarageeza91?si=bHNizIHn9dIL3jX7">
-    <img src="https://img.shields.io/badge/Youtube-red?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
-     </a>
-     <a href="https://t.me/ammarageeza">
-    <img src="https://img.shields.io/badge/Telegram-0077B5?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
 </div>
 
@@ -75,9 +66,9 @@
 ## 💜 Views and Followers:
 
 <a href="https://github.com/AmmarAgeeza/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=AmmarAgeeza">
+    <img src="https://komarev.com/ghpvc/?username=ashrefmehri">
 </a>
-<a href="https://github.com/AmmarAgeeza?tab=followers"><img src="https://img.shields.io/github/followers/AmmarAgeeza?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/ashrefmehri?tab=followers"><img src="https://img.shields.io/github/followers/ashrefmehri?label=Followers&style=social" alt="GitHub Badge"></a>
 <h3 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+❤️;+Shoot+me+a+message+on+Linkedin!;I'm+Long+Life+Learner">
 </h3>
